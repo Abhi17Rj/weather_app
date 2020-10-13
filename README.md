@@ -2,7 +2,7 @@
 
 A new Flutter application to know weather.
 
-# About App
+## About App
 
 It's my go at designing beautiful UI's for Cross Platform using Flutter.
 The app requires user location data in order to receive Weather location of the area.
@@ -14,10 +14,10 @@ All the design elements are minimal and UI is easy to use.
 User can also search weather of an area by simply typing the Region they want the location for.
 That page can be found by tapping the city icon on the top right corner.
 
-# Weather API used : 
+## Weather API used : 
 [https://openweathermap.org/current](https://openweathermap.org/current)
 
-# Dependencies used : 
+## Dependencies used : 
   cupertino_icons: ^0.1.2
   geolocator: ^3.0.1
   http: ^0.12.0+2
@@ -25,16 +25,18 @@ That page can be found by tapping the city icon on the top right corner.
   flutter_spinkit: ^3.1.0
   intl: ^0.16.1
 
-# How to install :
+## How to install :
 -> Clone this repo
 -> Go to pubsec.yaml and run "packages get" to update pakages used in the project.
 
 
-# Note : 
+## Note : 
 This project was made on older version of flutter. So you might need to move it to newer version.
 To do so, when you'll run main.dart flutter will tell you to move this project according to newer version needs.
 Follow the instructions of the link and you're good to go.
 
+## You Can download the apk below :
+[Google Drive LInk](https://drive.google.com/file/d/16G_NeHWl4oCSUYEI8er8SkwZLkk6hFJq/view?usp=sharing)
 
 
 ## Getting Started
