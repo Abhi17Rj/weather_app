@@ -38,6 +38,11 @@ Follow the instructions of the link and you're good to go.
 ## You Can download the apk below :
 [Google Drive LInk](https://drive.google.com/file/d/16G_NeHWl4oCSUYEI8er8SkwZLkk6hFJq/view?usp=sharing)
 
+## Screenshot
+![Loading Screen](images/2.png)
+![Weather Display Page](images/1.png)
+![Enter City Page](images/3.png)
+
 
 ## Getting Started
 
